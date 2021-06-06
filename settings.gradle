@@ -1,3 +1,6 @@
 rootProject.name = 'reactive-rest-service'
 include 'rest-mock'
+include 'rest-client'
+include 'rest-reactive-service'
+include 'rest-web-service'
 
